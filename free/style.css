@@ -1,0 +1,12 @@
+@charset "utf-8";
+body{
+    background: #ffaaaa;
+    font-family: sans-serif;
+}
+h1,h2,h3{
+    color: white;
+    
+}
+div>p{
+    color: red;
+}
